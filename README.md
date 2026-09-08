@@ -1,7 +1,7 @@
 # 💫 About Me:
 A young coder passionate for computer science and coding.
 Eager to learn new things and skills.
-Ready to work with organization and contribute my skills.
+Ready to work and contribute my skills.
 
 
 ## 🌐 Socials:
